@@ -1,0 +1,13 @@
+{
+  "name": "cloud-run-hello-app-demo",
+  "version": "1.0.0",
+  "description": "Barebones demo Node.js web app - no dependencies/frameworks.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "Apache-2.0"
+}
